@@ -17,11 +17,31 @@ We introduce a metadata-enriched generation framework **PhishFuzzer** that seeds
 
 ## Citation
 
-If you use this dataset, please cite:
+If you use this dataset, code, or any results from this repository, please cite our paper:
 
-    [Placeholder for citation information]
+> Rebeka Toth, Nils Gruschka and Tamas Bisztray. "The Phish, The Spam, and The Valid: Generating Feature-Rich Emails for Benchmarking LLMs". In: *CYBERSEC 2026: The First International Conference on Security and Cybersecurity in the AI and Digital Context*. Accepted for publication, forthcoming. Porto, Portugal: Digital Transformation Research Society, 2026. ISBN: 978-1-68558-449-8. URL: https://www.dtrsociety.org/library/contribution/cybersec2026_20040
+
+```bibtex
+@inproceedings{toth2026phish,
+  author    = {Toth, Rebeka and Gruschka, Nils and Bisztray, Tamas},
+  title     = {The Phish, The Spam, and The Valid: Generating Feature-Rich Emails for Benchmarking LLMs},
+  booktitle = {CYBERSEC 2026: The First International Conference on Security and Cybersecurity in the AI and Digital Context},
+  publisher = {Digital Transformation Research Society},
+  address   = {Porto, Portugal},
+  year      = {2026},
+  isbn      = {978-1-68558-449-8},
+  note      = {Accepted for publication, forthcoming},
+  url       = {https://www.dtrsociety.org/library/contribution/cybersec2026_20040}
+}
+```
 
 ------------------------------------------------------------------------
+
+## License
+
+This repository (code and data) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You may use, share and adapt it for **non-commercial purposes only**, and you must give attribution by citing the paper above. Commercial use requires a separate license from the authors. Emails taken from third-party sources (Kaggle Phishing Dataset, SpamAssassin) remain under their original terms. See [LICENSE](LICENSE) for details.
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Dataset Structure
 
